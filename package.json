@@ -1,0 +1,14 @@
+{
+  "name": "track-morpho-blue-subgraphs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@morpho-labs/ethers-utils": "^1.2.0",
+    "dotenv": "^16.4.1",
+    "ethers": "^6.11.0",
+    "evm-maths": "^6.0.3",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0"
+  }
+}
